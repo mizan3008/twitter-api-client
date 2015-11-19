@@ -18,6 +18,7 @@ Examples
 --------
 
 Q. How to use twitter APP?
+
 A. Everything is here https://apps.twitter.com/
 
 use this on top of your class:
@@ -76,5 +77,3 @@ function twitterCallback()
 	}
 }
 ```
-
-*Note for contributors:* This is not Code Golf.

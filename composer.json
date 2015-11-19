@@ -1,0 +1,24 @@
+{
+    "name": "mizanur/twitter-api-client",
+    "type": "library",
+    "description": "Twitter API client for PHP",
+    "keywords": ["twitter", "api", "sdk"],
+    "homepage": "https://github.com/mizanur-rahman/twitter-api-client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mizanur Rahman",
+			"email" : "mizan3008@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+		"ext-curl": "*"
+    },
+    "autoload": {
+        "psr-0": { "Twitter": "src/" }
+    },
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}

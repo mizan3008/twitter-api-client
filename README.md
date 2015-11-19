@@ -17,9 +17,10 @@ composer require mizanur/twitter-api-client
 Examples
 --------
 
-Q. How to use twitter APP?
+Q. How to create twitter APP?
 
 A. Everything is here https://apps.twitter.com/
+
 
 use this on top of your class:
 
